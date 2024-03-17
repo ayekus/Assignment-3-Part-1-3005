@@ -6,7 +6,6 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 public class Main {
-
     private final String url = "jdbc:postgresql://localhost:5432/database_name";
     private final String user = "username";
     private final String password = "password";
